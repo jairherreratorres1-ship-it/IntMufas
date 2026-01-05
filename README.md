@@ -62,6 +62,8 @@ Mufas/
    Crear un archivo `.env` en la raíz basado en el ejemplo:
    ```properties
    TELEGRAM_TOKEN=tu_token_aqui_123456
+   WEBHOOK_URL=https://tu-dominio.com/webhook
+   PORT=8000
    ```
 
 ### Ejecución
